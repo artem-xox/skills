@@ -1,0 +1,9 @@
+{
+  "name": "artem-skills",
+  "description": "Personal Claude Code skills: codebase cartography and other reusable workflows",
+  "version": "0.1.0",
+  "author": {
+    "name": "Artem Khokhlov"
+  },
+  "license": "Apache-2.0"
+}

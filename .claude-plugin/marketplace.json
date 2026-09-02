@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "artem-skills",
+  "description": "Personal skill collection for Claude Code",
+  "owner": {
+    "name": "Artem Khokhlov"
+  },
+  "plugins": [
+    {
+      "name": "artem-skills",
+      "description": "Personal Claude Code skills: codebase cartography and other reusable workflows",
+      "author": {
+        "name": "Artem Khokhlov"
+      },
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
